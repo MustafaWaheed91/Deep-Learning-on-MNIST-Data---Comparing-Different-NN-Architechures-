@@ -6,9 +6,9 @@ _https://www.tensorflow.org/get_started/mnist/pros_
 
 This project uses:
 
-Python version 3.5
-Tensorflow version 1.1.0
-
+*Python version 3.5*    
+*Tensorflow version 1.1.0*  
+ 
 
 
 `mnist_precip.py` file contains the code for a simple multi layered preciptron    
@@ -16,7 +16,7 @@ Tensorflow version 1.1.0
 `mnist_.py` file contains the code for a Convolutional Deep Neural Network 
 
 
-Run execute each of the python scripts to see the Model in action and compare Accuracy at the end. 
+Execute each of the python scripts to see the Model in action and compare Accuracy at the end. 
 
 
 Please feel free to reachout to me with any questions or comments:
