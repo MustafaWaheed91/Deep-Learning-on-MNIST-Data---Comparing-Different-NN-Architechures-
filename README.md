@@ -1,4 +1,4 @@
-# Deep Learning on MNIST Data  Comparing Different NN Architechures
+# Deep Learning on MNIST Data  Comparing Different NN Architechures ###by Mustafa Waheed
 This repository contains 3 files which train and test 3 Deep Neural Networks on the famous MNIST data set.
 
 ![Data Set from TensorFlows library](mnist_data.png)
@@ -22,4 +22,3 @@ Execute each of the python scripts to see the Model in action and compare Accura
 
 
 Please feel free to reachout to me with any questions or comments:
-
