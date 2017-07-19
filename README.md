@@ -1,6 +1,8 @@
 # Deep Learning on MNIST Data  Comparing Different NN Architechures
 This repository contains 3 files which train and test 3 Deep Neural Networks on the famous MNIST data set.
 
+![Data Set from TensorFlows library](mnist_data.png)
+
 For further reference please visit:
 _https://www.tensorflow.org/get_started/mnist/pros_ 
 
