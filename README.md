@@ -23,4 +23,4 @@ This project uses:
 Execute each of the python scripts to see the Model in action and compare Accuracy at the end. 
 
 
-Please feel free to reachout to me with any questions or comments:
+Please feel free to reachout to me with any questions or comments
